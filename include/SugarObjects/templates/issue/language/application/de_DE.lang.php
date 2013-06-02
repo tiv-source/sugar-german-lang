@@ -12,29 +12,41 @@
 
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
-$mod_strings = array (
-	'LBL_NAME'             => 'Name',
-	'LBL_NUMBER'           => 'Number:',
-	'LBL_STATUS'           => 'Status:',
-	'LBL_PRIORITY'         => 'Priority:',
-	'LBL_DESCRIPTION'      => 'Description:',
-	'LBL_RESOLUTION'       => 'Resolution',
-	'LBL_LAST_MODIFIED'    => 'Last Modified',
-	'LBL_ASSIGNED_TO_ID'   => 'Assigned To:',
-	'LBL_ASSIGNED_TO_NAME' => 'User:',
-	'LBL_WORK_LOG'         => 'Work Log:',
-	'LBL_CREATED_BY'       => 'Created by:',
-	'LBL_DATE_CREATED'     => 'Date Created:',
-	'LBL_DATE_ENTERED'     => 'Date Created:',
-	'LBL_DATE_MODIFIED'    => 'Date Modified:',
-	'LBL_MODIFIED_BY'      => 'Last Modified by:',
-	'LBL_ASSIGNED_USER'    => 'Assigned User:',
-	'LBL_SYSTEM_ID'        => 'System Id:',
-	'LBL_TYPE'             => 'Type:',
-	'LBL_SUBJECT'          => 'Subject:',
-	'LBL_EDIT_BUTTON'      => 'Edit',
-	'LBL_REMOVE'           => 'Remove',
+$object_name = strtolower($object_name);
+$app_list_strings = array (
+
+		$object_name.'_type_dom' =>
+		array (
+				'Administration' => 'Administration',
+				'Product' => 'Product',
+				'User' => 'User',
+		),
+		$object_name.'_status_dom' =>
+		array (
+				'New' => 'New',
+				'Assigned' => 'Assigned',
+				'Closed' => 'Closed',
+				'Pending Input' => 'Pending Input',
+				'Rejected' => 'Rejected',
+				'Duplicate' => 'Duplicate',
+		),
+		$object_name.'_priority_dom' =>
+		array (
+				'P1' => 'High',
+				'P2' => 'Medium',
+				'P3' => 'Low',
+		),
+		$object_name.'_resolution_dom' =>
+		array (
+				'' => '',
+				'Accepted' => 'Accepted',
+				'Duplicate' => 'Duplicate',
+				'Closed' => 'Closed',
+				'Out of Date' => 'Out of Date',
+				'Invalid' => 'Invalid',
+		),
 );
+
 
 
 ?>
