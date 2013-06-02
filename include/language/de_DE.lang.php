@@ -94,9 +94,9 @@ $app_list_strings = array (
 	),
 
 	'checkbox_dom'=> array(
-		''=>'',
-		'1'=>'Yes',
-		'2'=>'No',
+		''  => '',
+		'1' => 'Ja',
+		'2' => 'Nein',
 	),
 		
 	'account_type_dom' => array (
