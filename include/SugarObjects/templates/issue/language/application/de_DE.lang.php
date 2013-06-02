@@ -7,7 +7,6 @@
  * Company: T.I.V. Consulting GmbH
  * URL: http://www.tiv-consulting.de/
  *
- * TODO: Übersetzung
  */
 
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
@@ -17,32 +16,32 @@ $app_list_strings = array (
 
 	$object_name.'_type_dom' =>	array (
 		'Administration' => 'Administration',
-		'Product' => 'Product',
-		'User' => 'User',
+		'Product'        => 'Produkt',
+		'User'           => 'Benutzer',
 	),
 
 	$object_name.'_status_dom' => array (
-		'New' => 'New',
-		'Assigned' => 'Assigned',
-		'Closed' => 'Closed',
-		'Pending Input' => 'Pending Input',
-		'Rejected' => 'Rejected',
-		'Duplicate' => 'Duplicate',
+		'New'           => 'New',
+		'Assigned'      => 'Zugeordnet',
+		'Closed'        => 'Geschlossen',
+		'Pending Input' => 'ausstehende Anwort',
+		'Rejected'      => 'Abgelehnt',
+		'Duplicate'     => 'Duplikat',
 	),
 
 	$object_name.'_priority_dom' => array (
-		'P1' => 'High',
-		'P2' => 'Medium',
-		'P3' => 'Low',
+		'P1' => 'Hoch',
+		'P2' => 'Normal',
+		'P3' => 'Niedrig',
 	),
 
 	$object_name.'_resolution_dom' => array (
-		'' => '',
-		'Accepted' => 'Accepted',
-		'Duplicate' => 'Duplicate',
-		'Closed' => 'Closed',
-		'Out of Date' => 'Out of Date',
-		'Invalid' => 'Invalid',
+		''            => '',
+		'Accepted'    => 'Akzeptiert',
+		'Duplicate'   => 'Duplikat',
+		'Closed'      => 'Geschlossen',
+		'Out of Date' => 'Veraltet',
+		'Invalid'     => 'Ungültig',
 	),
 );
 
