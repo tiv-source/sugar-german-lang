@@ -13,17 +13,17 @@
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 $mod_strings = array (
-	'ACCOUNT_REMOVE_PROJECT_CONFIRM'     => 'Are you sure you want to remove this account from this project?',
-	'ERR_DELETE_RECORD'                  => 'A record number must be specified to delete the account.',
+	'ACCOUNT_REMOVE_PROJECT_CONFIRM'     => 'Sind Sie sicher das Sie diese Firma aus diesem Projekt löschen möchten?',
+	'ERR_DELETE_RECORD'                  => 'Es muss eine Nummer angegeben werden um die Firma zu löschen.',
 	'LBL_ACCOUNT_NAME'                   => 'Firmenname:',
 	'LBL_ACCOUNT'                        => 'Firma:',
 	'LBL_ACTIVITIES_SUBPANEL_TITLE'      => 'Aktivitäten',
-	'LBL_ADDRESS_INFORMATION'            => 'Address Information',
+	'LBL_ADDRESS_INFORMATION'            => 'Adresse Informationen',
 	'LBL_ANNUAL_REVENUE'                 => 'Annual Revenue:',
-	'LBL_ANY_ADDRESS'                    => 'Any Address:',
+	'LBL_ANY_ADDRESS'                    => 'Any Adresse:',
 	'LBL_ANY_EMAIL'                      => 'Any Email:',
 	'LBL_ANY_PHONE'                      => 'Any Phone:',
-	'LBL_ASSIGNED_TO_NAME'               => 'User:',
+	'LBL_ASSIGNED_TO_NAME'               => 'Benutzer:',
 	'LBL_RATING'                         => 'Rating',
 	'LBL_ASSIGNED_TO'                    => 'Zugewiesen an:',
 	'LBL_ASSIGNED_USER'                  => 'Zugewiesen an:',
