@@ -5,10 +5,10 @@ $manifest = array(
 	'description' => 'Language Pack German von <a href="http://www.tiv-consulting.de" target="_blank">T.I.V. Consulting GmbH</a>',
 	'type' => 'langpack',
 	'is_uninstallable' => 'Yes',
-	'version' => '6.5.9',
+	'version' => '6.5.13',
 	'acceptable_sugar_flavors' => array("CE"),
-	'author' => 'Marc Michele T.I.V. Consulting GmbH',
-	'acceptable_sugar_versions' => array("regex_matches" => array("6.5.[0-9]")),
+	'author' => 'Marc Michele for T.I.V. Consulting GmbH',
+	'acceptable_sugar_versions' => array("regex_matches" => array("6.5.13")),
 	'published_date' => '01-06-2013',
 );
 
