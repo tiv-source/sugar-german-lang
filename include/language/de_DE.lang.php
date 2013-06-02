@@ -60,7 +60,7 @@ $app_list_strings = array (
 		'ProspectLists'     => 'Ziel Liste',
 		'SavedSearch'       => 'Gespeicherte Suchen',
 		'UpgradeWizard'     => 'Upgrade Assistent',
-		// Ab hier noch nicht übersetzt.
+		// TODO: Ab hier noch nicht übersetzt.
 		'Trackers'          => 'Trackers',
 		'TrackerPerfs'      => 'Tracker Performance',
 		'TrackerSessions'   => 'Tracker Sessions',
@@ -210,6 +210,7 @@ $app_list_strings = array (
 		'Alternate Contact' => 'Alternativer Kontakt',
 	),
 
+	// TODO: Noch nicht übersetzt.
 	'payment_terms' => array (
 		'' => '',
 		'Net 15' => 'Net 15',
@@ -222,72 +223,73 @@ $app_list_strings = array (
 		'Elastic' => 'elasticsearch'
 	),
 
-		'sales_stage_dom' =>
-		array (
-				'Prospecting' => 'Prospecting',
-				'Qualification' => 'Qualification',
-				'Needs Analysis' => 'Needs Analysis',
-				'Value Proposition' => 'Value Proposition',
-				'Id. Decision Makers' => 'Id. Decision Makers',
-				'Perception Analysis' => 'Perception Analysis',
-				'Proposal/Price Quote' => 'Proposal/Price Quote',
-				'Negotiation/Review' => 'Negotiation/Review',
-				'Closed Won' => 'Closed Won',
-				'Closed Lost' => 'Closed Lost',
-		),
-		'in_total_group_stages' => array (
-				'Draft' => 'Draft',
-				'Negotiation' => 'Negotiation',
-				'Delivered' => 'Delivered',
-				'On Hold' => 'On Hold',
-				'Confirmed' => 'Confirmed',
-				'Closed Accepted' => 'Closed Accepted',
-				'Closed Lost' => 'Closed Lost',
-				'Closed Dead' => 'Closed Dead',
-		),
-		'sales_probability_dom' => // keys must be the same as sales_stage_dom
-		array (
-				'Prospecting' => '10',
-				'Qualification' => '20',
-				'Needs Analysis' => '25',
-				'Value Proposition' => '30',
-				'Id. Decision Makers' => '40',
-				'Perception Analysis' => '50',
-				'Proposal/Price Quote' => '65',
-				'Negotiation/Review' => '80',
-				'Closed Won' => '100',
-				'Closed Lost' => '0',
-		),
-		'activity_dom' =>
-		array (
-				'Call' => 'Call',
-				'Meeting' => 'Meeting',
-				'Task' => 'Task',
-				'Email' => 'Email',
-				'Note' => 'Note',
-		),
-		'salutation_dom' =>
-		array (
-				'' => '',
-				'Mr.' => 'Mr.',
-				'Ms.' => 'Ms.',
-				'Mrs.' => 'Mrs.',
-				'Dr.' => 'Dr.',
-				'Prof.' => 'Prof.',
-		),
+	'sales_stage_dom' => array (
+		'Prospecting' => 'Prospecting',
+		'Qualification' => 'Qualification',
+		'Needs Analysis' => 'Needs Analysis',
+		'Value Proposition' => 'Value Proposition',
+		'Id. Decision Makers' => 'Id. Decision Makers',
+		'Perception Analysis' => 'Perception Analysis',
+		'Proposal/Price Quote' => 'Proposal/Price Quote',
+		'Negotiation/Review' => 'Negotiation/Review',
+		'Closed Won' => 'Closed Won',
+		'Closed Lost' => 'Closed Lost',
+	),
 
-		'reminder_max_time' => 90000,
-		'reminder_time_options' => array( 60=> '1 minute prior',
-				300=> '5 minutes prior',
-				600=> '10 minutes prior',
-				900=> '15 minutes prior',
-				1800=> '30 minutes prior',
-				3600=> '1 hour prior',
-				7200 => '2 hours prior',
-				10800 => '3 hours prior',
-				18000 => '5 hours prior',
-				86400 => '1 day prior',
-		),
+	'in_total_group_stages' => array (
+		'Draft' => 'Draft',
+		'Negotiation' => 'Negotiation',
+		'Delivered' => 'Delivered',
+		'On Hold' => 'On Hold',
+		'Confirmed' => 'Confirmed',
+		'Closed Accepted' => 'Closed Accepted',
+		'Closed Lost' => 'Closed Lost',
+		'Closed Dead' => 'Closed Dead',
+	),
+
+	'sales_probability_dom' => array ( // keys must be the same as sales_stage_dom
+		'Prospecting' => '10',
+		'Qualification' => '20',
+		'Needs Analysis' => '25',
+		'Value Proposition' => '30',
+		'Id. Decision Makers' => '40',
+		'Perception Analysis' => '50',
+		'Proposal/Price Quote' => '65',
+		'Negotiation/Review' => '80',
+		'Closed Won' => '100',
+		'Closed Lost' => '0',
+	),
+
+	'activity_dom' => array (
+		'Call' => 'Call',
+		'Meeting' => 'Meeting',
+		'Task' => 'Task',
+		'Email' => 'Email',
+		'Note' => 'Note',
+	),
+
+	'salutation_dom' => array (
+		'' => '',
+		'Mr.' => 'Mr.',
+		'Ms.' => 'Ms.',
+		'Mrs.' => 'Mrs.',
+		'Dr.' => 'Dr.',
+		'Prof.' => 'Prof.',
+	),
+
+	'reminder_max_time' => 90000,
+	'reminder_time_options' => array( 
+		60 => '1 minute prior',
+		300=> '5 minutes prior',
+		600=> '10 minutes prior',
+		900=> '15 minutes prior',
+		1800=> '30 minutes prior',
+		3600=> '1 hour prior',
+		7200 => '2 hours prior',
+		10800 => '3 hours prior',
+		18000 => '5 hours prior',
+		86400 => '1 day prior',
+	),
 		
 		'task_priority_default' => 'Medium',
 		'task_priority_dom' =>
