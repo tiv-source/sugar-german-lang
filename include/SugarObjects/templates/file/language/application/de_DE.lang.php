@@ -7,7 +7,6 @@
  * Company: T.I.V. Consulting GmbH
  * URL: http://www.tiv-consulting.de/
  *
- * TODO: Übersetzung
  */
 
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
@@ -17,24 +16,24 @@ $app_list_strings = array (
 	strtolower($object_name).'_category_dom' => array (
 		''                => '',
 		'Marketing'       => 'Marketing',
-		'Knowledege Base' => 'Knowledge Base',
-		'Sales'           => 'Sales',
+		'Knowledege Base' => 'Wissens-DB',
+		'Sales'           => 'Vertrieb',
 	),
 
 	strtolower($object_name).'_subcategory_dom' => array (
 		'' => '',
-		'Marketing Collateral' => 'Marketing Collateral',
-		'Product Brochures'    => 'Product Brochures',
-		'FAQ'                  => 'FAQ',
+		'Marketing Collateral' => 'Werbematerial',
+		'Product Brochures'    => 'Produkt Broschüren',
+		'FAQ'                  => 'Fragen',
 	),
 
 	strtolower($object_name).'_status_dom' => array (
-		'Active'       => 'Active',
-		'Draft'        => 'Draft',
-		'FAQ'          => 'FAQ',
-		'Expired'      => 'Expired',
-		'Under Review' => 'Under Review',
-		'Pending'      => 'Pending',
+		'Active'       => 'Aktiv',
+		'Draft'        => 'Entwurf',
+		'FAQ'          => 'Fragen',
+		'Expired'      => 'Abgelaufen',
+		'Under Review' => 'Unter Überprüfung',
+		'Pending'      => 'Unerledigt',
 	),
 );
 
