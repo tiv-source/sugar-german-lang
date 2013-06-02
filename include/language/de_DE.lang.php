@@ -193,21 +193,21 @@ $app_list_strings = array (
 	'opportunity_relationship_type_default_key' => 'Primary Decision Maker',
 	'opportunity_relationship_type_dom' => array (
 		''                         => '',
-		'Primary Decision Maker'   => 'Primary Decision Maker',
-		'Business Decision Maker'  => 'Business Decision Maker',
-		'Business Evaluator'       => 'Business Evaluator',
-		'Technical Decision Maker' => 'Technical Decision Maker',
-		'Technical Evaluator'      => 'Technical Evaluator',
-		'Executive Sponsor'        => 'Executive Sponsor',
-		'Influencer'               => 'Influencer',
-		'Other'                    => 'Other',
+		'Primary Decision Maker'   => 'Hauptentscheidungsträger',
+		'Business Decision Maker'  => 'Geschäftlicher Entscheidungsträger',
+		'Business Evaluator'       => 'Geschäftlicher Bewerter',
+		'Technical Decision Maker' => 'Technischer Entscheidungsträger',
+		'Technical Evaluator'      => 'Technischer Bewerter',
+		'Executive Sponsor'        => 'Geschäftsführer',
+		'Influencer'               => 'Beeinflusser',
+		'Other'                    => 'Andere',
 	),
 
 	'case_relationship_type_default_key' => 'Primary Contact',
 	'case_relationship_type_dom' =>	array (
-		'' => '',
-		'Primary Contact' => 'Primary Contact',
-		'Alternate Contact' => 'Alternate Contact',
+		''                  => '',
+		'Primary Contact'   => 'Primärer Kontakt',
+		'Alternate Contact' => 'Alternativer Kontakt',
 	),
 
 	'payment_terms' => array (
