@@ -7,7 +7,7 @@
  * Company: T.I.V. Consulting GmbH
  * URL: http://www.tiv-consulting.de/
  *
- *
+ * TODO: Übersetzen
  */
 
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
@@ -32,9 +32,9 @@ $mod_strings = array (
 	'LBL_BILLING_ADDRESS_COUNTRY'        => 'Billing Country:',
 	'LBL_BILLING_ADDRESS_POSTALCODE'     => 'Billing Postal Code:',
 	'LBL_BILLING_ADDRESS_STATE'          => 'Billing State:',
-	'LBL_BILLING_ADDRESS_STREET_2'       =>'Billing Street 2',
-	'LBL_BILLING_ADDRESS_STREET_3'       =>'Billing Street 3',
-	'LBL_BILLING_ADDRESS_STREET_4'       =>'Billing Street 4',
+	'LBL_BILLING_ADDRESS_STREET_2'       => 'Billing Street 2',
+	'LBL_BILLING_ADDRESS_STREET_3'       => 'Billing Street 3',
+	'LBL_BILLING_ADDRESS_STREET_4'       => 'Billing Street 4',
 	'LBL_BILLING_ADDRESS_STREET'         => 'Billing Street:',
 	'LBL_BILLING_ADDRESS'                => 'Billing Address:',
 	'LBL_ACCOUNT_INFORMATION'            => 'Company Information',
@@ -59,8 +59,8 @@ $mod_strings = array (
 	'LBL_LIST_WEBSITE'                   => 'Website',
 	'LBL_MEMBER_OF'                      => 'Member of:',
 	'LBL_MEMBER_ORG_FORM_TITLE'          => 'Member Organizations',
-	'LBL_MEMBER_ORG_SUBPANEL_TITLE'      =>'Member Organizations',
-	'LBL_NAME'                           =>'Name:',
+	'LBL_MEMBER_ORG_SUBPANEL_TITLE'      => 'Member Organizations',
+	'LBL_NAME'                           => 'Name:',
 	'LBL_OTHER_EMAIL_ADDRESS'            => 'Other Email:',
 	'LBL_OTHER_PHONE'                    => 'Other Phone:',
 	'LBL_OWNERSHIP'                      => 'Ownership:',
