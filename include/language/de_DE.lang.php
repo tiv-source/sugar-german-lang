@@ -290,97 +290,93 @@ $app_list_strings = array (
 		18000 => '5 hours prior',
 		86400 => '1 day prior',
 	),
-		
-		'task_priority_default' => 'Medium',
-		'task_priority_dom' =>
-		array (
-				'High' => 'High',
-				'Medium' => 'Medium',
-				'Low' => 'Low',
-		),
-		'task_status_default' => 'Not Started',
-		'task_status_dom' =>
-		array (
-				'Not Started' => 'Not Started',
-				'In Progress' => 'In Progress',
-				'Completed' => 'Completed',
-				'Pending Input' => 'Pending Input',
-				'Deferred' => 'Deferred',
-		),
-		'meeting_status_default' => 'Planned',
-		'meeting_status_dom' =>
-		array (
-				'Planned' => 'Planned',
-				'Held' => 'Held',
-				'Not Held' => 'Not Held',
-		),
-		'extapi_meeting_password' =>
-		array (
-				'WebEx' => 'WebEx',
-		),
-		'meeting_type_dom' =>
-		array (
-				'Other' => 'Other',
-				'Sugar' => 'SugarCRM',
-		),
 
-		'call_status_default' => 'Planned',
-		'call_status_dom' =>
-		array (
-				'Planned' => 'Planned',
-				'Held' => 'Held',
-				'Not Held' => 'Not Held',
-		),
-		'call_direction_default' => 'Outbound',
-		'call_direction_dom' =>
-		array (
-				'Inbound' => 'Inbound',
-				'Outbound' => 'Outbound',
-		),
-		'lead_status_dom' =>
-		array (
-				'' => '',
-				'New' => 'New',
-				'Assigned' => 'Assigned',
-				'In Process' => 'In Process',
-				'Converted' => 'Converted',
-				'Recycled' => 'Recycled',
-				'Dead' => 'Dead',
-		),
-		'gender_list' =>
-		array (
-				'male' => 'Male',
-				'female' => 'Female',
-		),
-		//Note:  do not translate case_status_default_key
-		//       it is the key for the default case_status_dom value
-		'case_status_default_key' => 'New',
-		'case_status_dom' =>
-		array (
-				'New' => 'New',
-				'Assigned' => 'Assigned',
-				'Closed' => 'Closed',
-				'Pending Input' => 'Pending Input',
-				'Rejected' => 'Rejected',
-				'Duplicate' => 'Duplicate',
-		),
-		'case_priority_default_key' => 'P2',
-		'case_priority_dom' =>
-		array (
-				'P1' => 'High',
-				'P2' => 'Medium',
-				'P3' => 'Low',
-		),
-		'user_type_dom' =>
-		array (
-				'RegularUser' => 'Regular User',
-				'Administrator' => 'Administrator',
-		),
-		'user_status_dom' =>
-		array (
-				'Active' => 'Active',
-				'Inactive' => 'Inactive',
-		),
+	'task_priority_default' => 'Medium',
+	'task_priority_dom' => array (
+		'High' => 'High',
+		'Medium' => 'Medium',
+		'Low' => 'Low',
+	),
+
+	'task_status_default' => 'Not Started',
+	'task_status_dom' => array (
+		'Not Started' => 'Not Started',
+		'In Progress' => 'In Progress',
+		'Completed' => 'Completed',
+		'Pending Input' => 'Pending Input',
+		'Deferred' => 'Deferred',
+	),
+
+	'meeting_status_default' => 'Planned',
+	'meeting_status_dom' =>	array (
+		'Planned' => 'Planned',
+		'Held' => 'Held',
+		'Not Held' => 'Not Held',
+	),
+
+	'extapi_meeting_password' => array (
+		'WebEx' => 'WebEx',
+	),
+
+	'meeting_type_dom' => array (
+		'Other' => 'Other',
+		'Sugar' => 'SugarCRM',
+	),
+
+	'call_status_default' => 'Planned',
+	'call_status_dom' => array (
+		'Planned' => 'Planned',
+		'Held' => 'Held',
+		'Not Held' => 'Not Held',
+	),
+
+	'call_direction_default' => 'Outbound',
+	'call_direction_dom' => array (
+		'Inbound' => 'Inbound',
+		'Outbound' => 'Outbound',
+	),
+
+	'lead_status_dom' => array (
+		'' => '',
+		'New' => 'New',
+		'Assigned' => 'Assigned',
+		'In Process' => 'In Process',
+		'Converted' => 'Converted',
+		'Recycled' => 'Recycled',
+		'Dead' => 'Dead',
+	),
+
+	'gender_list' => array (
+		'male' => 'Male',
+		'female' => 'Female',
+	),
+
+	'case_status_default_key' => 'New',
+	'case_status_dom' => array (
+		'New' => 'New',
+		'Assigned' => 'Assigned',
+		'Closed' => 'Closed',
+		'Pending Input' => 'Pending Input',
+		'Rejected' => 'Rejected',
+		'Duplicate' => 'Duplicate',
+	),
+
+	'case_priority_default_key' => 'P2',
+	'case_priority_dom' => array (
+		'P1' => 'High',
+		'P2' => 'Medium',
+		'P3' => 'Low',
+	),
+
+	'user_type_dom' => array (
+		'RegularUser' => 'Regular User',
+		'Administrator' => 'Administrator',
+	),
+
+	'user_status_dom' => array (
+		'Active' => 'Active',
+		'Inactive' => 'Inactive',
+	),
 
 		'employee_status_dom' =>
 		array (
