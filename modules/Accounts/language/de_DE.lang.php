@@ -13,25 +13,27 @@
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 $mod_strings = array (
-	// DON'T CONVERT THESE THEY ARE MAPPINGS
-	'db_name' => 'LBL_LIST_ACCOUNT_NAME',
-	'db_website' => 'LBL_LIST_WEBSITE',
-	'db_billing_address_city' => 'LBL_LIST_CITY',
-	// END DON'T CONVERT
-	'LBL_DOCUMENTS_SUBPANEL_TITLE' => 'Documents',
+
+	// Start Nicht übersetzen !!! Dies sind Zuordnungen !!!
+	'db_name'                         => 'LBL_LIST_ACCOUNT_NAME',
+	'db_website'                      => 'LBL_LIST_WEBSITE',
+	'db_billing_address_city'         => 'LBL_LIST_CITY',
+	// Ende Nicht übersetzen !!!
+
+	'LBL_DOCUMENTS_SUBPANEL_TITLE'    => 'Documents',
 	// Dashlet Categories
-	'LBL_CHARTS'    => 'Charts',
-	'LBL_DEFAULT' => 'Views',
-	'LBL_MISC'    => 'Misc',
-	'LBL_UTILS'    => 'Utils',
+	'LBL_CHARTS'                      => 'Charts',
+	'LBL_DEFAULT'                     => 'Views',
+	'LBL_MISC'                        => 'Misc',
+	'LBL_UTILS'                       => 'Utils',
 	// END Dashlet Categories
 
-	'ACCOUNT_REMOVE_PROJECT_CONFIRM' => 'Are you sure you want to remove this account from the project?',
-	'ERR_DELETE_RECORD' => 'You must specify a record number in order to delete the account.',
-	'LBL_ACCOUNT_INFORMATION' => 'Overview',
-	'LBL_ACCOUNT_NAME' => 'Account Name:',
-	'LBL_ACCOUNT' => 'Account:',
-	'LBL_ACTIVITIES_SUBPANEL_TITLE'=>'Activities',
+	'ACCOUNT_REMOVE_PROJECT_CONFIRM'  => 'Are you sure you want to remove this account from the project?',
+	'ERR_DELETE_RECORD'               => 'You must specify a record number in order to delete the account.',
+	'LBL_ACCOUNT_INFORMATION'         => 'Overview',
+	'LBL_ACCOUNT_NAME'                => 'Account Name:',
+	'LBL_ACCOUNT'                     => 'Account:',
+	'LBL_ACTIVITIES_SUBPANEL_TITLE'   => 'Activities',
 	'LBL_ADDRESS_INFORMATION' => 'Address Information',
 	'LBL_ANNUAL_REVENUE' => 'Annual Revenue:',
 	'LBL_ANY_ADDRESS' => 'Any Address:',
