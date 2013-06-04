@@ -13,6 +13,8 @@
 $manifest = array(
 	'name' => 'German - Deutsch - Language Pack',
 	'description' => 'Language Pack German von <a href="http://www.tiv-consulting.de" target="_blank">T.I.V. Consulting GmbH</a>',
+	'id'=> 'de_DE',
+	'lang_file_suffix' => 'de_DE',
 	'type' => 'langpack',
 	'is_uninstallable' => 'Yes',
 	'version' => '6.5.13',
