@@ -104,8 +104,8 @@ $mod_strings = array(
 	'LBL_LOG_ENTRIES_LINK_TITLE'                  => 'Click-thru Link',
 	'LBL_LOG_ENTRIES_VIEWED_TITLE'                => 'Viewed Message',
 	'LBL_LOG_ENTRIES_REMOVED_TITLE'               => 'Opted Out',
-	'LBL_LOG_ENTRIES_LEAD_TITLE'                  => 'Leads Created',
-	'LBL_CAMPAIGN_LEAD_SUBPANEL_TITLE'            => 'Leads',
+	'LBL_LOG_ENTRIES_LEAD_TITLE'                  => 'Interessenten erstellt',
+	'LBL_CAMPAIGN_LEAD_SUBPANEL_TITLE'            => 'Interessenten',
 	'LBL_OPPORTUNITY_SUBPANEL_TITLE'              => 'Opportunities',
 	'LBL_LOG_ENTRIES_CONTACT_TITLE'               => 'Contacts Created',
 	'LBL_BACK_TO_CAMPAIGNS'                       => 'Back to Campaigns',
@@ -340,7 +340,7 @@ $mod_strings = array(
 	'LBL_AVALAIBLE_FIELDS_HEADER'                 => 'Available Fields',
 	'LBL_LEAD_FORM_FIRST_HEADER'                  => 'Lead Form (First Column)',
 	'LBL_LEAD_FORM_SECOND_HEADER'                 => 'Lead Form (Second Column)',
-	'LBL_LEAD_MODULE'                             => 'Leads',
+	'LBL_LEAD_MODULE'                             => 'Interessenten',
 	'LBL_CREATE_WEB_TO_LEAD_FORM'                 => 'CreateWebToLeadForm',
 	'LBL_SELECT_REQUIRED_LEAD_FIELDS'             => 'Please select required fields:',
 	//Campaign charts
@@ -378,7 +378,7 @@ $mod_strings = array(
 	'LBL_REMOVED_SUBPANEL_TITLE'                  => 'Removed',
 	'LBL_BLOCKED_SUBPANEL_TITLE'                  => 'Blocked',
 	'LBL_ACCOUNTS_SUBPANEL_TITLE'                 => 'Accounts',
-	'LBL_LEADS_SUBPANEL_TITLE'                    => 'Leads',
+	'LBL_LEADS_SUBPANEL_TITLE'                    => 'Interessenten',
 	'LBL_OPPORTUNITIES_SUBPANEL_TITLE'            => 'Opportunities',
 	'LBL_IMPORT_PROSPECTS'                        => 'Import Targets',
 	'LBL_LEAD_FORM_WIZARD'                        => 'Lead Form Wizard',
@@ -396,7 +396,7 @@ $mod_strings = array(
 	'LBL_VIEW_INLINE'                             => 'View',
 	'ERR_NO_OPTS_SAVED'                           => 'No optimums were saved with your Inbound Email account.',
 	'ERR_REVIEW_EMAIL_SETTINGS'                   => 'Please review Inbound Email settings.',
-	'LBL_LEADS_DELETED_SINCE_CREATED'             => '{0} leads that were created through this campaign have been deleted since creation.',
+	'LBL_LEADS_DELETED_SINCE_CREATED'             => '{0} Interessenten that were created through this campaign have been deleted since creation.',
 );
 
 ?>
