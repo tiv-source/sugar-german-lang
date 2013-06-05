@@ -441,7 +441,7 @@ $app_list_strings = array (
 				'Accounts' => 'Account',
 				'Opportunities' => 'Opportunity',
 				'Cases' => 'Case',
-				'Leads' => 'Lead',
+				'Leads' => 'Interessent',
 				'Contacts' => 'Contacts', // cn (11/22/2005) added to support Emails
 		
 		
@@ -930,7 +930,7 @@ $app_list_strings = array (
 				'link'=>'Click-thru Link',
 				'viewed'=>'Viewed Message',
 				'removed'=>'Opted Out',
-				'lead'=>'Leads Created',
+				'lead'=>'Interessent erstellt',
 				'contact'=>'Contacts Created',
 				'blocked'=>'Suppressed by address or domain',
 		),
@@ -1440,7 +1440,7 @@ $app_strings = array (
 		
 		'LBL_EMAIL_QC_BUGS'                     => 'Bug',
 		'LBL_EMAIL_QC_CASES'                    => 'Case',
-		'LBL_EMAIL_QC_LEADS'                    => 'Lead',
+		'LBL_EMAIL_QC_LEADS'                    => 'Interessent',
 		'LBL_EMAIL_QC_CONTACTS'                 => 'Contact',
 		'LBL_EMAIL_QC_TASKS'                    => 'Task',
 		'LBL_EMAIL_QC_OPPORTUNITIES'            => 'Opportunity',
@@ -1763,7 +1763,7 @@ $app_strings = array (
 		'LBL_SHOW_LESS' => 'Show Less',
 		'LBL_SHOW_MORE' => 'Show More',
 		'LBL_TODAYS_ACTIVITIES' => 'Today\'s Activities',
-		'LBL_LEADS'=>'Leads',
+		'LBL_LEADS'=>'Interessenten',
 		'LBL_LESS' => 'less',
 		'LBL_CAMPAIGN' => 'Campaign:',
 		'LBL_CAMPAIGNS' => 'Campaigns',
