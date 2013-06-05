@@ -13,18 +13,18 @@
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 $mod_strings = array (
-	'LBL_MODULE_NAME'               => 'Sale',
-	'LBL_MODULE_TITLE'              => 'Sale: Home',
-	'LBL_SEARCH_FORM_TITLE'         => 'Sale Search',
-	'LBL_VIEW_FORM_TITLE'           => 'Sale View',
-	'LBL_LIST_FORM_TITLE'           => 'Sale List',
-	'LBL_SALE_NAME'                 => 'Sale Name:',
-	'LBL_SALE'                      => 'Sale:',
-	'LBL_NAME'                      => 'Sale Name',
+	'LBL_MODULE_NAME'               => 'Verkauf',
+	'LBL_MODULE_TITLE'              => 'Verkauf: Start',
+	'LBL_SEARCH_FORM_TITLE'         => 'Verkauf Suche',
+	'LBL_VIEW_FORM_TITLE'           => 'Verkauf Ansicht',
+	'LBL_LIST_FORM_TITLE'           => 'Verkauf Liste',
+	'LBL_SALE_NAME'                 => 'Verkauf Name:',
+	'LBL_SALE'                      => 'Verkauf:',
+	'LBL_NAME'                      => 'Verkauf Name',
 	'LBL_LIST_SALE_NAME'            => 'Name',
-	'LBL_LIST_ACCOUNT_NAME'         => 'Account Name',
+	'LBL_LIST_ACCOUNT_NAME'         => 'Firmenname',
 	'LBL_LIST_AMOUNT'               => 'Amount',
-	'LBL_LIST_DATE_CLOSED'          => 'Close',
+	'LBL_LIST_DATE_CLOSED'          => 'geschloßen',
 	'LBL_LIST_SALE_STAGE'           => 'Sales Stage',
 	'LBL_ACCOUNT_ID'                => 'Account ID',
 	'LBL_CURRENCY_ID'               => 'Currency ID',
@@ -86,8 +86,6 @@ $mod_strings = array (
 	'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activities',
 	'LBL_HISTORY_SUBPANEL_TITLE'    => 'History',
 	'LBL_RAW_AMOUNT'                => 'Raw Amount',
-	
-		
 	'LBL_CONTACTS_SUBPANEL_TITLE'   => 'Contacts',
 	'LBL_ASSIGNED_TO_NAME'          => 'User:',
 	'LBL_LIST_ASSIGNED_TO_NAME'     => 'Assigned User',

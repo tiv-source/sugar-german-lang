@@ -21,7 +21,7 @@ $app_list_strings = array (
 	),
 
 	$object_name.'_status_dom' => array (
-		'New'           => 'New',
+		'New'           => 'Neu',
 		'Assigned'      => 'Zugeordnet',
 		'Closed'        => 'Geschlossen',
 		'Pending Input' => 'ausstehende Anwort',
