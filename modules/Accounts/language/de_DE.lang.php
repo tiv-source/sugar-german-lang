@@ -22,9 +22,9 @@ $mod_strings = array (
 
 	'LBL_DOCUMENTS_SUBPANEL_TITLE'       => 'Documents',
 	// Dashlet Categories
-	'LBL_CHARTS'                         => 'Charts',
-	'LBL_DEFAULT'                        => 'Views',
-	'LBL_MISC'                           => 'Misc',
+	'LBL_CHARTS'                         => 'Diagramme',
+	'LBL_DEFAULT'                        => 'Ansichten',
+	'LBL_MISC'                           => 'Sonstiges',
 	'LBL_UTILS'                          => 'Utils',
 	// END Dashlet Categories
 
@@ -150,9 +150,9 @@ $mod_strings = array (
 	'LBL_PROSPECT_LIST'                  => 'Prospect List',
 	'LBL_ACCOUNTS_SUBPANEL_TITLE'        => 'Accounts',
 	'LBL_PROJECT_SUBPANEL_TITLE'         => 'Projects',
-	'LBL_COPY'                           => 'Copy' /*for 508 compliance fix*/,
+	'LBL_COPY'                           => 'Kopieren' /*for 508 compliance fix*/,
 	//For export labels
-	'LBL_ACCOUNT_TYPE'                   => 'Account Type',
+	'LBL_ACCOUNT_TYPE'                   => 'Firmentyp',
 	'LBL_CAMPAIGN_ID'                    => 'Campaign ID',
 	'LBL_PARENT_ID'                      => 'Parent ID',
 	'LBL_PHONE_ALTERNATE'                => 'Phone Alternate',
