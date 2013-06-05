@@ -7,7 +7,6 @@
  * Company: T.I.V. Consulting GmbH
  * URL: http://www.tiv-consulting.de/
  *
- * TODO: Übersetzung.
  */
 
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
