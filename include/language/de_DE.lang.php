@@ -810,7 +810,7 @@ $app_list_strings = array (
 						'' => '',
 						'Marketing' => 'Marketing',
 						'Knowledege Base' => 'Knowledge Base',
-						'Sales' => 'Sales',
+						'Sales' => 'Verkauf',
 				),
 		
 				'document_subcategory_dom' =>
@@ -2004,7 +2004,7 @@ $app_strings = array (
 		'LBL_TABGROUP_MY_PORTALS' => 'My Sites',
 		'LBL_TABGROUP_OTHER' => 'Other',
 		'LBL_TABGROUP_REPORTS' => 'Reports',
-		'LBL_TABGROUP_SALES' => 'Sales',
+		'LBL_TABGROUP_SALES' => 'Verkauf',
 		'LBL_TABGROUP_SUPPORT' => 'Support',
 		'LBL_TABGROUP_TOOLS' => 'Tools',
 		'LBL_TASKS'=>'Tasks',

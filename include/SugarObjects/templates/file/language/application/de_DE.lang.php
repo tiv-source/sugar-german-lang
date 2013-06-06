@@ -17,7 +17,7 @@ $app_list_strings = array (
 		''                => '',
 		'Marketing'       => 'Marketing',
 		'Knowledege Base' => 'Wissens-DB',
-		'Sales'           => 'Vertrieb',
+		'Sales'           => 'Verkauf',
 	),
 
 	strtolower($object_name).'_subcategory_dom' => array (
