@@ -111,7 +111,7 @@ $mod_strings = array(
 	'LBL_RETRIEVING_PAGE'                 => 'Retrieving Page...',
 	// Default out-of-box names for tabs
 	'LBL_HOME_PAGE_1_NAME'                => 'My Sugar',
-	'LBL_HOME_PAGE_2_NAME'                => 'Sales',
+	'LBL_HOME_PAGE_2_NAME'                => 'Verkauf',
 	'LBL_HOME_PAGE_3_NAME'                => 'Support',
 	'LBL_HOME_PAGE_6_NAME'                => 'Marketing',
 	//bug 16510, separate the support and marketing page from each other
