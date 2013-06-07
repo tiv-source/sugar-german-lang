@@ -74,7 +74,7 @@ $mod_strings = array (
 	'LBL_DOCUMENTS_SUBPANEL_TITLE'     => 'Documents',
 	'LBL_SYSTEM_ID'                    => 'System ID',
 	'LBL_LIST_ASSIGNED_TO_NAME'        => 'Assigned User',
-	'LBL_ASSIGNED_TO_NAME'             => 'Assigned to',
+	'LBL_ASSIGNED_TO_NAME'             => 'zugewiesen an',
 	'LBL_BUG_INFORMATION'              => 'Overview',
 	//For export labels
 	'LBL_FOUND_IN_RELEASE_NAME'        => 'Found In Release Name',
