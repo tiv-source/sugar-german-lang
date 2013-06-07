@@ -2130,7 +2130,7 @@ $app_strings = array (
 		'MSG_JS_ALERT_MTG_REMINDER_CALL' => 'Call',
 		'MSG_JS_ALERT_MTG_REMINDER_TIME' => 'Time: ',
 		'MSG_JS_ALERT_MTG_REMINDER_LOC' => 'Location: ',
-		'MSG_JS_ALERT_MTG_REMINDER_DESC' => 'Description: ',
+		'MSG_JS_ALERT_MTG_REMINDER_DESC' => 'Beschreibung: ',
 		'MSG_JS_ALERT_MTG_REMINDER_STATUS' => 'Status: ',
 		'MSG_JS_ALERT_MTG_REMINDER_RELATED_TO' => 'Related To: ',
 		'MSG_JS_ALERT_MTG_REMINDER_CALL_MSG' => "\nClick OK to view this call or click Cancel to dismiss this message.",
@@ -2334,7 +2334,7 @@ $app_strings = array (
 		'LBL_FASTCGI_LOGGING'      => 'For optimal experience using IIS/FastCGI sapi, set fastcgi.logging to 0 in your php.ini file.',
 		//MB -Fixed Bug #32812 -Max
 		'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
-		'LBL_DESCRIPTION' => 'Description',
+		'LBL_DESCRIPTION' => 'Beschreibung',
 		
 		'LBL_NONE' => '-none-',
 		'LBL_YESTERDAY'=> 'yesterday',
