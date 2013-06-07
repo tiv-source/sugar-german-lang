@@ -13,13 +13,13 @@
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 $mod_strings = array (
-	'LBL_MODULE_NAME'          => 'Roles',
-	'LBL_MODULE_TITLE'         => 'Roles: Home',
-	'LBL_ROLE'                 => 'Role',
+	'LBL_MODULE_NAME'          => 'Rollen',
+	'LBL_MODULE_TITLE'         => 'Rollen: Start',
+	'LBL_ROLE'                 => 'Rolle',
 	'LBL_NAME'                 => 'Name',
-	'LBL_DESCRIPTION'          => 'Description',
-	'LIST_ROLES'               => 'List Roles',
-	'LBL_USERS_SUBPANEL_TITLE' => 'Users',
+	'LBL_DESCRIPTION'          => 'Beschreibung',
+	'LIST_ROLES'               => 'List Rollen',
+	'LBL_USERS_SUBPANEL_TITLE' => 'Benutzer',
 	'LIST_ROLES_BY_USER'       => 'List Roles By User',
 	'LBL_LIST_FORM_TITLE'      => 'Roles',
 	'LBL_ROLES_SUBPANEL_TITLE' => 'User Roles',
