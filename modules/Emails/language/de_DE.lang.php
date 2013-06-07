@@ -253,7 +253,7 @@ $mod_strings = array(
 	'LNK_MY_ARCHIVED_LIST'                          => 'My Archives',
 	'LBL_EMAILS_NO_PRIMARY_TEAM_SPECIFIED'          => 'No Primary Team specified',
 	// advanced search
-	'LBL_ASSIGNED_TO'                               => 'Assigned To:',
+	'LBL_ASSIGNED_TO'                               => 'zugewiesen an:',
 	'LBL_MEMBER_OF'                                 => 'Parent',
 	'LBL_QUICK_CREATE'                              => 'Quick Create',
 	'LBL_STATUS'                                    => 'Email Status:',

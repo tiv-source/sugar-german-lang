@@ -31,8 +31,8 @@ $mod_strings = array(
 	'LBL_LIST_PHONE'                        => 'Phone',
 	'LBL_LIST_PROSPECT_ROLE'                => 'Role',
 	'LBL_LIST_FIRST_NAME'                   => 'First Name',
-	'LBL_ASSIGNED_TO_NAME'                  => 'Assigned to',
-	'LBL_ASSIGNED_TO_ID'                    => 'Assigned To:',
+	'LBL_ASSIGNED_TO_NAME'                  => 'zugewiesen an',
+	'LBL_ASSIGNED_TO_ID'                    => 'zugewiesen an:',
 	//DON'T CONVERT THESE THEY ARE MAPPINGS
 	'db_last_name'                          => 'LBL_LIST_LAST_NAME',
 	'db_first_name'                         => 'LBL_LIST_FIRST_NAME',
