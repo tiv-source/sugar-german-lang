@@ -69,7 +69,7 @@ $mod_strings = array(
 	'LBL_LIST_EDIT_BUTTON'       => 'Edit',
 	'LBL_ACTIVITIES_REPORTS'     => 'Activities Report',
 	'LBL_PANEL_DETAILS'          => 'Details',
-	'LBL_NOTE_INFORMATION'       => 'Overview',
+	'LBL_NOTE_INFORMATION'       => 'Übersicht',
 	'LBL_MY_NOTES_DASHLETNAME'   => 'My Notes',
 	'LBL_EDITLAYOUT'             => 'Edit Layout' /*for 508 compliance fix*/,
 	//For export labels

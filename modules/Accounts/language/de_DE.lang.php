@@ -30,7 +30,7 @@ $mod_strings = array (
 
 	'ACCOUNT_REMOVE_PROJECT_CONFIRM'     => 'Are you sure you want to remove this account from the project?',
 	'ERR_DELETE_RECORD'                  => 'You must specify a record number in order to delete the account.',
-	'LBL_ACCOUNT_INFORMATION'            => 'Overview',
+	'LBL_ACCOUNT_INFORMATION'            => 'Übersicht',
 	'LBL_ACCOUNT_NAME'                   => 'Firmenname:',
 	'LBL_ACCOUNT'                        => 'Firma:',
 	'LBL_ACTIVITIES_SUBPANEL_TITLE'      => 'Aktivitäten',

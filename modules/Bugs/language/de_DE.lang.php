@@ -75,7 +75,7 @@ $mod_strings = array (
 	'LBL_SYSTEM_ID'                    => 'System ID',
 	'LBL_LIST_ASSIGNED_TO_NAME'        => 'Assigned User',
 	'LBL_ASSIGNED_TO_NAME'             => 'zugewiesen an',
-	'LBL_BUG_INFORMATION'              => 'Overview',
+	'LBL_BUG_INFORMATION'              => 'Übersicht',
 	//For export labels
 	'LBL_FOUND_IN_RELEASE_NAME'        => 'Found In Release Name',
 	'LBL_PORTAL_VIEWABLE'              => 'Portal Viewable',

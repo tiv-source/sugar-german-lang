@@ -69,7 +69,7 @@ $mod_strings = array (
 	'LBL_CREATED_USER'                   => 'Created User',
 	'LBL_MODIFIED_USER'                  => 'Modified User',
 	'LBL_PROJECT_SUBPANEL_TITLE'         => 'Projects',
-	'LBL_CASE_INFORMATION'               => 'Overview',
+	'LBL_CASE_INFORMATION'               => 'Übersicht',
 	//For export labels
 	'LBL_MODIFIED_BY_NAME_OWNER'         => 'Modified By Name Owner',
 	'LBL_MODIFIED_BY_NAME_MOD'           => 'Modified By Name Mod',

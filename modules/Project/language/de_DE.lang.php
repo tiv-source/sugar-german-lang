@@ -98,10 +98,10 @@ $mod_strings = array(
 	'LBL_PROJECTRESOURCES_SUBPANEL_TITLE' => 'Project Resources',
 	'LBL_PROJECTTASK_SUBPANEL_TITLE'      => 'Project Task',
 	'LBL_HOLIDAYS_SUBPANEL_TITLE'         => 'Holidays',
-	'LBL_PROJECT_INFORMATION'             => 'Project Overview',
+	'LBL_PROJECT_INFORMATION'             => 'Projekt Übersicht',
 	'LBL_EDITLAYOUT'                      => 'Edit Layout' /*for 508 compliance fix*/,
 	'LBL_INSERTROWS'                      => 'Insert Rows' /*for 508 compliance fix*/,
-	'LBL_PROJECT_INFORMATION'             => 'Overview',
+	'LBL_PROJECT_INFORMATION'             => 'Übersicht',
 );
 
 ?>
