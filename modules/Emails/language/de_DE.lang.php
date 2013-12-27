@@ -15,7 +15,7 @@ if (!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 $mod_strings = array(
 	'LBL_FW'                                        => 'FW:',
 	'LBL_RE'                                        => 'RE:',
-	'LBL_BUTTON_CREATE'                             => 'Create',
+	'LBL_BUTTON_CREATE'                             => 'Erstellen',
 	'LBL_BUTTON_EDIT'                               => 'Bearbeiten',
 	'LBL_QS_DISABLED'                               => '(QuickSearch is not availible for this module. Please use the select button.)',
 	'LBL_SIGNATURE_PREPEND'                         => 'Signature above reply',
@@ -40,7 +40,7 @@ $mod_strings = array(
 	'LBL_ADD_FILE'                                  => 'Add Files',
 	'LBL_ARCHIVED_EMAIL'                            => 'Archived Email',
 	'LBL_ARCHIVED_MODULE_NAME'                      => 'Create Archived Emails',
-	'LBL_ARCHIVED_EMAILS_CREATE'                    => 'Create',
+	'LBL_ARCHIVED_EMAILS_CREATE'                    => 'Erstellen',
 	'LBL_ATTACHMENTS'                               => 'Attachments:',
 	'LBL_HAS_ATTACHMENT'                            => 'Has Attachment?:',
 	'LBL_BCC'                                       => 'Bcc:',
