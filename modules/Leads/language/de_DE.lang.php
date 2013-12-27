@@ -60,7 +60,7 @@ $mod_strings = array(
 	'LBL_CONVERTLEAD'                       => 'Convert Lead',
 	'LBL_CONVERTLEAD_WARNING'               => 'Warning: The status of the Lead you are about to convert is "Converted". Contact and/or Account records may already have been created from the Lead. If you wish to continue with converting the Lead, click Save. To go back to the Lead without converting it, click Cancel.',
 	'LBL_CONVERTLEAD_WARNING_INTO_RECORD'   => ' Possible Contact: ',
-	'LBL_COUNTRY'                           => 'Country:',
+	'LBL_COUNTRY'                           => 'Land:',
 	'LBL_CREATED_NEW'                       => 'Created a new',
 	'LBL_CREATED_ACCOUNT'                   => 'Created a new account',
 	'LBL_CREATED_CALL'                      => 'Created a new call',
@@ -201,7 +201,7 @@ $mod_strings = array(
 	'LBL_CONVERT_REQUIRED'                  => 'Required',
 	'LBL_CONVERT_SELECT'                    => 'Allow Selection',
 	'LBL_CONVERT_COPY'                      => 'Copy Data',
-	'LBL_CONVERT_EDIT'                      => 'Edit',
+	'LBL_CONVERT_EDIT'                      => 'Bearbeiten',
 	'LBL_CONVERT_DELETE'                    => 'Delete',
 	'LBL_CONVERT_ADD_MODULE'                => 'Add Module',
 	'LBL_CREATE'                            => 'Create',
@@ -236,7 +236,7 @@ $mod_strings = array(
 	'LBL_EDITLAYOUT'                        => 'Edit Layout' /*for 508 compliance fix*/,
 	'LBL_ENTERDATE'                         => 'Enter Date' /*for 508 compliance fix*/,
 	'LBL_LOADING'                           => 'Loading' /*for 508 compliance fix*/,
-	'LBL_EDIT_INLINE'                       => 'Edit' /*for 508 compliance fix*/,
+	'LBL_EDIT_INLINE'                       => 'Bearbeiten' /*for 508 compliance fix*/,
 );
 
 ?>

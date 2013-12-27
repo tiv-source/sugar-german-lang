@@ -14,10 +14,10 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 $mod_strings = array (
 	'LBL_ADD_MODULE'                         => 'Add',
-	'LBL_ADDRCITY'                           => 'City',
-	'LBL_ADDRCOUNTRY'                        => 'Country',
-	'LBL_ADDRCOUNTRY_ID'                     => 'Country Id',
-	'LBL_ADDRSTATEPROV'                      => 'State',
+	'LBL_ADDRCITY'                           => 'Stadt',
+	'LBL_ADDRCOUNTRY'                        => 'Land',
+	'LBL_ADDRCOUNTRY_ID'                     => 'Land Id',
+	'LBL_ADDRSTATEPROV'                      => 'Bundesland',
 	'LBL_ADMINISTRATION'                     => 'Connector Administration',
 	'LBL_ADMINISTRATION_MAIN'                => 'Connector Settings',
 	'LBL_AVAILABLE'                          => 'Available',
