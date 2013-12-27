@@ -55,7 +55,7 @@ $mod_strings = array (
 	'LBL_DIRECTION'                     => 'Direction',
 	'LNK_NEW_APPOINTMENT'               => 'New Appointment',
 	'LNK_VIEW_CALENDAR'                 => 'View Calendar',
-	'LBL_OPEN_ACTIVITIES'               => 'Open Activities',
+	'LBL_OPEN_ACTIVITIES'               => 'Öffne Aktivitäten',
 	'LBL_HISTORY'                       => 'History',
 	'LBL_UPCOMING'                      => 'My Upcoming Appointments',
 	'LBL_TODAY'                         => 'through ',
@@ -92,7 +92,7 @@ $mod_strings = array (
 	'LNK_IMPORT_NOTES'                  => 'Import Notes',
 	'NTC_NONE'                          => 'None',
 	'LBL_ACCEPT_THIS'                   => 'Accept?',
-	'LBL_DEFAULT_SUBPANEL_TITLE'        => 'Open Activities',
+	'LBL_DEFAULT_SUBPANEL_TITLE'        => 'Öffne Aktivitäten',
 	'LBL_LIST_ASSIGNED_TO_NAME'         => 'Assigned User',
 	'LBL_ACCEPT'                        => 'Accept' /*for 508 compliance fix*/,
 );
