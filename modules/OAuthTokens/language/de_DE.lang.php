@@ -22,7 +22,7 @@ $mod_strings = array(
 	'LBL_ID'                => 'ID',
 	'LBL_STATUS'            => 'Status',
 	'LBL_TS'                => 'Timestamp',
-	'LBL_LIST_DELETE'       => 'Delete Token',
+	'LBL_LIST_DELETE'       => 'Token löschen',
 	'LBL_CONSUMER'          => 'Consumer Name',
 	'LBL_OAUTH_DISABLED'    => 'OAuth support not enabled. PHP oauth extension may be missing. Please contact your administrator.',
 );

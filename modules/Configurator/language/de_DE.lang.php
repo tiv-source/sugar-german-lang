@@ -357,7 +357,7 @@ To configure additional system settings, click <a href="index.php?module=Adminis
 	'LBL_YAHOO_MAIL'                     => 'Yahoo Mail' /*for 508 compliance fix*/,
 	'LBL_EXCHANGE_LOGO'                  => 'Exchange' /*for 508 compliance fix*/,
 	'LBL_LOADING'                        => 'Loading...' /*for 508 compliance fix*/,
-	'LBL_DELETE'                         => 'Delete' /*for 508 compliance fix*/,
+	'LBL_DELETE'                         => 'Löschen' /*for 508 compliance fix*/,
 	'LBL_WELCOME'                        => 'Welcome' /*for 508 compliance fix*/,
 	'LBL_LOGO'                           => 'Logo' /*for 508 compliance fix*/,
 	'LBL_MOBILE_MOD_REPORTS_RESTRICTION' => '* The Reports module is only available for the Sugar Mobile native clients',

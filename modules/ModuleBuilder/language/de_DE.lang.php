@@ -15,7 +15,7 @@ if (!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 $mod_strings = array(
 	'LBL_LOADING'                     => 'Loading' /*for 508 compliance fix*/,
 	'LBL_HIDEOPTIONS'                 => 'Hide Options' /*for 508 compliance fix*/,
-	'LBL_DELETE'                      => 'Delete' /*for 508 compliance fix*/,
+	'LBL_DELETE'                      => 'Löschen' /*for 508 compliance fix*/,
 	'LBL_POWERED_BY_SUGAR'            => 'Powered By SugarCRM' /*for 508 compliance fix*/,
 	'help'                            => array(
 		'package'             => array(
@@ -462,7 +462,7 @@ $mod_strings = array(
 	//Manager Backups History
 	'LBL_MB_PREVIEW'                  => 'Preview',
 	'LBL_MB_RESTORE'                  => 'Restore',
-	'LBL_MB_DELETE'                   => 'Delete',
+	'LBL_MB_DELETE'                   => 'Löschen',
 	'LBL_MB_COMPARE'                  => 'Compare',
 	'LBL_MB_DEFAULT_LAYOUT'           => 'Default Layout',
 	//END WIZARDS
@@ -492,7 +492,7 @@ $mod_strings = array(
 	'LBL_BTN_PUBLISH'                 => 'Publish',
 	'LBL_BTN_DEPLOY'                  => 'Deploy',
 	'LBL_BTN_EXP'                     => 'Export',
-	'LBL_BTN_DELETE'                  => 'Delete',
+	'LBL_BTN_DELETE'                  => 'Löschen',
 	'LBL_BTN_VIEW_LAYOUTS'            => 'View Layouts',
 	'LBL_BTN_VIEW_FIELDS'             => 'View Fields',
 	'LBL_BTN_VIEW_RELATIONSHIPS'      => 'View Relationships',

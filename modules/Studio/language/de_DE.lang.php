@@ -69,7 +69,7 @@ $mod_strings = array(
 	//Manager Backups History
 	'LBL_MB_PREVIEW'              => 'Preview',
 	'LBL_MB_RESTORE'              => 'Restore',
-	'LBL_MB_DELETE'               => 'Delete',
+	'LBL_MB_DELETE'               => 'Löschen',
 	'LBL_MB_COMPARE'              => 'Compare',
 	'LBL_MB_WELCOME'              => '<h2>History</h2><br> History allows you to view previously deployed editions of the file you are currently working on. You can compare and restore previous versions. If you do restore a file it will become your working file. You must deploy it before it is visible by everyone else.<br> What would you like to do today?<br><b> Please select from the options below.</b>',
 	//EDIT DROP DOWNS
@@ -145,7 +145,7 @@ $mod_strings = array(
 	'LBL_UNDO'                    => 'Undo' /*for 508 compliance fix*/,
 	'LBL_REDO'                    => 'Redo' /*for 508 compliance fix*/,
 	'LBL_INLINE'                  => 'Inline' /*for 508 compliance fix*/,
-	'LBL_DELETE'                  => 'Delete' /*for 508 compliance fix*/,
+	'LBL_DELETE'                  => 'Löschen' /*for 508 compliance fix*/,
 	'LBL_ADD_FIELD'               => 'Add Field' /*for 508 compliance fix*/,
 	'LBL_MAXIMIZE'                => 'Maximize' /*for 508 compliance fix*/,
 	'LBL_MINIMIZE'                => 'Minimize' /*for 508 compliance fix*/,

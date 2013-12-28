@@ -15,7 +15,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 $mod_strings = array (
 	'ERR_DELETE_RECORD'                  => 'You must specify a record number to delete the account.',
 	'LBL_ACCOUNT_ID'                     => 'Account ID',
-	'LBL_ACCOUNT_NAME'                   => 'Account Name:',
+	'LBL_ACCOUNT_NAME'                   => 'Firmenname:',
 	'LBL_ACCOUNTS_SUBPANEL_TITLE'        => 'Accounts',
 	'LBL_ACTIVITIES_SUBPANEL_TITLE'      => 'Aktivitäten',
 	'LBL_ATTACH_NOTE'                    => 'Attach Note',
@@ -46,7 +46,7 @@ $mod_strings = array (
 	'LBL_SUBJECT'                        => 'Subject:',
 	'LBL_SYSTEM_ID'                      => 'System ID',
 	'LBL_LIST_ASSIGNED_TO_NAME'          => 'Assigned User',
-	'LBL_LIST_ACCOUNT_NAME'              => 'Account Name',
+	'LBL_LIST_ACCOUNT_NAME'              => 'Firmenname',
 	'LBL_LIST_ASSIGNED'                  => 'zugewiesen an',
 	'LBL_LIST_CLOSE'                     => 'Close',
 	'LBL_LIST_FORM_TITLE'                => 'Case List',

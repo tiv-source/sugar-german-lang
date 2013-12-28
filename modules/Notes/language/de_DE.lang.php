@@ -79,7 +79,7 @@ $mod_strings = array(
 	'LBL_EXPORT_PARENT_ID'       => 'Related To ID',
 	'LBL_DATE_ENTERED'           => 'Date Created',
 	'LBL_DATE_MODIFIED'          => 'Date Modified',
-	'LBL_DELETED'                => 'Deleted',
+	'LBL_DELETED'                => 'Gelöscht',
 );
 
 ?>

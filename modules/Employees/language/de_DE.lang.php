@@ -49,7 +49,7 @@ $mod_strings = array(
 	'LBL_LANGUAGE'                  => 'Language:',
 	'LBL_ADMIN'                     => 'Administrator:',
 	'LBL_EMPLOYEE_INFORMATION'      => 'Employee Information',
-	'LBL_OFFICE_PHONE'              => 'Office Phone:',
+	'LBL_OFFICE_PHONE'              => 'Büronummer:',
 	'LBL_REPORTS_TO'                => 'Reports to Id:',
 	'LBL_REPORTS_TO_NAME'           => 'Reports to',
 	'LBL_OTHER_PHONE'               => 'Other:',
@@ -129,7 +129,7 @@ $mod_strings = array(
 	'LBL_ADDRESS'                   => 'Address',
 	'LBL_DATE_MODIFIED'             => 'Date Modified',
 	'LBL_DATE_ENTERED'              => 'Date Entered',
-	'LBL_DELETED'                   => 'Deleted',
+	'LBL_DELETED'                   => 'Gelöscht',
 );
 
 ?>
